@@ -20,6 +20,15 @@ The purpose of this audit is to help Seth and Tom organize the Colorado election
  
   --- 
 ### Election Audit Summary ###
-  adsaf
+  The current script is already in good shape to analyze and summarize data from elections in other districts and broader state/nation-wide elections. If a broader state wide election was conducted and officials wanted to breakdown results by precinct/district, then another column would need to be added to identify the precinct/distrcit. Similarly with a nationwide election, a state column would need to be added to identify the results by state. I think it would also be interesting to breakdown results by whether a citizen submitted a ballot the day of the election or mailed in their ballot.
+ 
+ If you are interested in digging further into the data please visit here:
+ ![election_results.csv](https://github.com/tylerwe19/Election_Analysis_Challenge/blob/main/Challenge/resources/election_results.csv)
+ 
+ If you are interested in seeing the results of the election please visit here:
+ ![election_analysis.txt](https://github.com/tylerwe19/Election_Analysis_Challenge/blob/main/Challenge/analysis/election_analysis.txt)
+ 
+ Finally, if you are interested in seeing the python script please visit here:
+ ![PyPoll_Challenge.py](https://github.com/tylerwe19/Election_Analysis_Challenge/blob/main/Challenge/PyPoll_Challenge.py)
  
  
